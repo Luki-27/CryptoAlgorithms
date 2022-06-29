@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TestAlgo/1.0.0": {
+        "dependencies": {
+          "CryptographyAlgorithms": "1.0.0"
+        },
+        "runtime": {
+          "TestAlgo.dll": {}
+        }
+      },
+      "CryptographyAlgorithms/1.0.0": {
+        "runtime": {
+          "CryptographyAlgorithms.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestAlgo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CryptographyAlgorithms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
